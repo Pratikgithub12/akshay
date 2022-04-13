@@ -9,7 +9,7 @@ public class loginpage {
 
 	@FindBy(id= "txtUsername")
 	private WebElement username;
-	
+	// github is webservice 
 	@FindBy(xpath = "//*[@id='txtPassword']")
 	private WebElement password ;
 	
